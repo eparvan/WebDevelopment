@@ -25,11 +25,12 @@ body{
 }
 .services > h5{
     color: #ebeced!important;
-}
-.text-backgrund{
     font-size: 10em;
     font-weight: bolder;
     letter-spacing: -0.1em;
+}
+.text-backgrund{
+
 }
 .img-services{
     position: relative;
