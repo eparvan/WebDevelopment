@@ -1,7 +1,7 @@
 body{
     font-family: 'Work Sans', sans-serif;
 }
-.test-site{
+.text-site{
     color: #10cab7;
 }
 .border-site{
@@ -55,4 +55,34 @@ body{
 }
 .menu > ul > li > a{
     color: white!important;
+}
+.header-title > h1{
+    font-size: 55.432px;
+    line-height: 1.207;
+}
+.header-title > div{
+    line-height: 1.6;
+    font-size: 20px;
+}
+section{
+    height: 455px;
+}
+/*Image css*/
+.square{
+    width: 300px;
+    height: 300px;
+}
+.rectangle{
+    width: 150px;
+    height: 400px;
+    right: 20px;
+    z-index: -2;
+    top: -50px;
+}
+/*Responsive*/
+@media screen and ( max-width: 767px)
+{
+    .services > h5{
+        font-size: 6em!important;
+    }
 }
