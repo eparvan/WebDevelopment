@@ -105,10 +105,9 @@ section{
 #sidebar{
 
 }
-.carousel-item{
+.my-jumbotron{
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: center;
+    background-size: cover;
 }
 /*Responsive*/
 @media screen and ( max-width: 767px)
