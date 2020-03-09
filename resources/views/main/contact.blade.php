@@ -16,9 +16,9 @@
     <div class="row">
         <div class="offset-md-3 px-3">
             <h5 class="py-4">Find us on social networks:
-                <i class="fab fa-dribble mx-2"></i>
-                <i class="fab fa-google-plus-g mx-2"></i>
-                <i class="fab fa-twitter mx-2"></i>
+                <i class="fa fa-dribbble mx-2" aria-hidden="true"></i>
+                <i class="fa fa-google-plus mx-2" aria-hidden="true"></i>
+                <i class="fa fa-twitter mx-2" aria-hidden="true"></i>
             </h5>
         </div>
     </div>

@@ -26,3 +26,4 @@ mix.styles([
     'node_modules/aos/dist/aos.css',
     'public/css/main.css',
 ], 'public/css/app.css');
+mix.sass('resources/sass/app.scss', 'public/css/fonts.css');
