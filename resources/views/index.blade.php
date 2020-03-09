@@ -1,11 +1,11 @@
 @extends('layouts.app')
 @section('content')
     <div class="wrapper">
-    @include('includes.nav')
+    @include('includes.responsive_nav')
         <div id="content">
-            @include('includes.header')
+            @include('includes.nav')
             <main role="main">
-                @include('main.jumbotron')
+                @include('components.jumbotron')
                 <div class="container-fluid text-center">
                    @include('main.work')
                 </div>
